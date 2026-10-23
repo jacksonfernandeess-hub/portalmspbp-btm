@@ -1,0 +1,9 @@
+FONTES DA MARCA (licença livre SIL Open Font License)
+
+Coloque nesta pasta, com estes nomes exatos:
+  PlayfairDisplay.woff2
+  PlayfairDisplay-Italic.woff2
+  Outfit.woff2
+
+Onde baixar: fonts.google.com (Playfair Display e Outfit) — ou peça os arquivos à agência que fez o manual da marca.
+Se os arquivos não estiverem aqui, a apresentação usa as fontes instaladas no computador e, na falta delas, Georgia e a fonte do sistema.
